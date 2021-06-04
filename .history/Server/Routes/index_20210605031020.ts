@@ -1,9 +1,10 @@
-/*
-   File name: index.ejs
-   Created By: Aakash
-    Student ID: 301134994
-*/
+// <!-- 
+//     File name: index.ejs
+//     Created By: Aakash
+//     Student ID: 301134994
+// -->
 
+// <!-- ejs file for index page -->
 import express from 'express';
 const router = express.Router();
 export default router;

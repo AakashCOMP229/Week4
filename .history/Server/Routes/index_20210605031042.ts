@@ -1,7 +1,7 @@
 /*
-   File name: index.ejs
-   Created By: Aakash
-    Student ID: 301134994
+//     File name: index.ejs
+//     Created By: Aakash
+//     Student ID: 301134994
 */
 
 import express from 'express';
