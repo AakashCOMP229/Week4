@@ -9,8 +9,10 @@ body {
     color: white;
     background-size: 55vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/Assets/images/fotis-fotopoulos-6sAl6aQ4OWI-unsplash.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
     background-size: cover;
-    height: 58vh;
+    -o-background-size: cover;
 }
 
 body {
@@ -388,9 +390,4 @@ h4 {
 
 #main-body-content {
     margin-top: 100px;
-}
-
-.card:hover {
-    background: #12424d;
-    color: white;
 }

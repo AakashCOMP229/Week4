@@ -389,8 +389,3 @@ h4 {
 #main-body-content {
     margin-top: 100px;
 }
-
-.card:hover {
-    background: #12424d;
-    color: white;
-}

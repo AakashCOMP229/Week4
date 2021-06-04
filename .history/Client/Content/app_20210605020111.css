@@ -346,6 +346,7 @@ h4 {
 
 .contact-form .btn {
     width: 180px;
+    background-color: transparent;
     color: #48dbfb;
     font-size: 16px;
     border: 2px solid #48dbfb;
@@ -388,9 +389,4 @@ h4 {
 
 #main-body-content {
     margin-top: 100px;
-}
-
-.card:hover {
-    background: #12424d;
-    color: white;
 }

@@ -250,7 +250,7 @@ h4 {
 .project-section-title {
     margin-top: 30px;
     text-align: center;
-    margin-bottom: 65px;
+    margin-bottom: 80px;
     position: relative;
     font-size: 30px;
     padding-bottom: 15px;
@@ -346,6 +346,7 @@ h4 {
 
 .contact-form .btn {
     width: 180px;
+    background-color: transparent;
     color: #48dbfb;
     font-size: 16px;
     border: 2px solid #48dbfb;
@@ -388,9 +389,4 @@ h4 {
 
 #main-body-content {
     margin-top: 100px;
-}
-
-.card:hover {
-    background: #12424d;
-    color: white;
 }
